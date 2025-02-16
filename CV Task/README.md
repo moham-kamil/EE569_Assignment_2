@@ -15,8 +15,8 @@ Ensure you have the following installed:
 
 1. Clone or download the project.
 2. Install required dependencies using:
-3. Ensure the trained model is available at `./output/model_0009999.pth`.
-4. To run the code faster, copy the prepared JSON files sent on Telegram [LV_MHP_V2_val] and [LV_MHP_V2_train] in `./json_files`.
+3. Copy the trained model sent on Telegram [model_0009999.pth] to `./output/`.
+5. To run the code faster, copy the prepared JSON files sent on Telegram [LV_MHP_V2_val] and [LV_MHP_V2_train] to `./json_files`.
 
 ## Running the Code
 
