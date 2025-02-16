@@ -54,20 +54,13 @@ python 4_visualize_mask.py
 
 This will display sample images with their annotated masks.
 
-### Register Dataset
-
-Run the following to register the dataset:
-
-```bash
-python 6_load_data.py
-```
 
 ### Visualize Training Data
 
 To visualize the dataset before training, run:
 
 ```bash
-python 7_visualize_train_data.py
+python 5_visualize_train_data.py
 ```
 
 This will display sample images with their annotated masks and bounding boxes.
@@ -77,7 +70,7 @@ This will display sample images with their annotated masks and bounding boxes.
 Run:
 
 ```bash
-python 8_train_model.py
+python 6_train_model.py
 ```
 
 ### Test the Model & Visualize Predictions
@@ -85,7 +78,7 @@ python 8_train_model.py
 Run:
 
 ```bash
-python 10_test_model.py
+python 7_test_model.py
 ```
 
 This will display images with detected objects, masks, and bounding boxes.
@@ -95,13 +88,12 @@ This will display images with detected objects, masks, and bounding boxes.
 To evaluate the trained model on the validation set, run:
 
 ```bash
-python 9_evaluate_model.py
+python 8_evaluate_model.py
 ```
 
 ## Notes
 
 - **Male** objects will be highlighted in **green**.
 - **Female** objects will be highlighted in **red**.
-- Ensure dataset and model paths are correct before running.
 
 
