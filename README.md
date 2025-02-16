@@ -2,9 +2,9 @@
 
 Two tasks were worked on:
 
-- CV Task: Instance Segmentation and Gender Classification of People
+- **CV Task:** Instance Segmentation and Gender Classification of People
   
-- 1- RL Task: Train Multi Car Racing using DQN
+- **RL Task:** Train Multi Car Racing using DQN
 
 # Team members:
 
@@ -13,4 +13,4 @@ Two tasks were worked on:
 - Mohammed Abdulbaset Alshareef
 
 # Note
-- Inside each task is a README file on how to run the code.
+- Inside each task is a **README** file on how to run the code.
