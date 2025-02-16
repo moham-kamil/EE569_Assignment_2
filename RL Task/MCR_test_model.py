@@ -1,8 +1,8 @@
 import gym
 import gym_multi_car_racing
 from collections import deque
-from MCR_train_model import CarRacingDQNAgent
-from MCR_train_model import process_state_image, generate_state_frame_stack_from_queue
+from dqn_multicar import CarRacingDQNAgent
+from dqn_multicar import process_state_image, generate_state_frame_stack_from_queue
 
 if __name__ == '__main__':
     play_episodes = 10
