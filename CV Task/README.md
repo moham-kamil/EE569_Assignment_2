@@ -14,7 +14,7 @@ Ensure you have the following installed:
 ## Setup
 
 1. Clone or download the project.
-2. Install required dependencies using:
+2. Install required dependencies.
 3. Copy the trained model sent on Telegram [model_0009999.pth] to `./output/`.
 5. To run the code faster, copy the prepared JSON files sent on Telegram [LV_MHP_V2_val] and [LV_MHP_V2_train] to `./json_files`.
 
