@@ -1,4 +1,4 @@
-## EE569_Assignment_2
+## EE569 Assignment 2
 
 Two tasks were worked on:
 
